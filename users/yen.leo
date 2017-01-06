@@ -20,7 +20,7 @@
 </v>
 <v t="amd.20151215180106.1" a="E"><vh>設定與開發</vh>
 <v t="amd.20151216151325.1"><vh>@clean index.html</vh></v>
-<v t="leo.20151213230723.1"><vh>Pelican 設定</vh>
+<v t="leo.20151213230723.1" a="E"><vh>Pelican 設定</vh>
 <v t="leo.20151213230957.1"><vh>文章 Date 設定</vh></v>
 <v t="leo.20151213230729.1"><vh>使用 summary plugin</vh></v>
 </v>
@@ -35,11 +35,12 @@
 <v t="amd.20151215170031.1" a="E"><vh>@path ./../content</vh>
 <v t="amd.20160106093454.1" a="E"><vh>yen 所寫的網誌文章</vh>
 <v t="amd.20160727114506.1" a="E"><vh>201609</vh>
-<v t="amd.20160727120222.1"><vh>@edit 20160921.md</vh></v>
+<v t="leo.20170106102605.1"><vh>@edit 20160921.md</vh></v>
+<v t="amd.20160727120222.1"><vh>@edit 20160106.md</vh></v>
 </v>
 </v>
 </v>
-<v t="amd.20160106094754.1"><vh>@path ./../content/pages</vh>
+<v t="amd.20160106094754.1" a="E"><vh>@path ./../content/pages</vh>
 <v t="amd.20160106094829.1" a="E"><vh>yen 所寫的 pages 文章</vh>
 <v t="amd.20160106094844.1"><vh>@edit pages_1.md</vh></v>
 </v>
@@ -117,32 +118,32 @@ print("hello")
 					&lt;h1&gt;2016Fall CADPB 計算機程式課程&lt;/h1&gt;
 					&lt;h3&gt;&lt;/h3&gt;
 					&lt;p&gt;
-						&lt;small&gt;Created by 40423212&lt;/small&gt;
+						&lt;small&gt;Created by 40423217&lt;/small&gt;
 					&lt;/p&gt;
                     &lt;a href="blog/index.html"&gt;blog&lt;/a&gt;
 				&lt;/section&gt;
 
 				&lt;section&gt;
-					&lt;h2&gt;shareX,solvespace的簡單介紹&lt;/h2&gt;
+					&lt;h2&gt;ShareX,SolveSpace的簡單介紹&lt;/h2&gt;
 &lt;iframe src="https://player.vimeo.com/video/188178505" width="640" height="325" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/188178505"&gt;2016-10-05_23-01-26 hw1 40423212&lt;/a&gt; from &lt;a href="https://vimeo.com/user45523667"&gt;40423212&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/188178505"&gt;2016-10-05_23-01-26 hw1 40423217&lt;/a&gt; from &lt;a href="https://vimeo.com/user45523667"&gt;40423217&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 				&lt;/section&gt;
 				
                                &lt;section&gt;
 					&lt;h2&gt;架構檔&lt;/h2&gt;
 				&lt;iframe src="https://player.vimeo.com/video/188178501" width="640" height="341" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/188178501"&gt;2016-10-05_23-46-04 hw2 40423212&lt;/a&gt; from &lt;a href="https://vimeo.com/user45523667"&gt;40423212&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/188178501"&gt;2016-10-05_23-46-04 hw2 40423217&lt;/a&gt; from &lt;a href="https://vimeo.com/user45523667"&gt;40423217&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
                               &lt;/section&gt;
                               
                                &lt;section&gt;
 					&lt;h2&gt;submodule的意義與方法&lt;/h2&gt;
 				    &lt;iframe src="https://player.vimeo.com/video/188178502" width="640" height="336" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/188178502"&gt;2016-10-12_23-25-40 hw3 40423212&lt;/a&gt; from &lt;a href="https://vimeo.com/user45523667"&gt;40423212&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/188178502"&gt;2016-10-12_23-25-40 hw3 40423217&lt;/a&gt; from &lt;a href="https://vimeo.com/user45523667"&gt;40423217&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
                               &lt;/section&gt;
                               &lt;section&gt;
 					&lt;h2&gt;用solvespace製作簡易連桿組&lt;/h2&gt;
 				    &lt;iframe src="https://player.vimeo.com/video/190109728" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/190109728"&gt;2016-11-04_23-25-40 hw4 40423212&lt;/a&gt; from &lt;a href="https://vimeo.com/user45523667"&gt;40423212&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/190109728"&gt;2016-11-04_23-25-40 hw4 40423217&lt;/a&gt; from &lt;a href="https://vimeo.com/user45523667"&gt;40423217&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
                               &lt;/section&gt;
 
 		&lt;script src="https://cad-lab.github.io/cadlab_data/reveal/lib/js/head.min.js"&gt;&lt;/script&gt;
