@@ -7,6 +7,7 @@ Author: yen
 
 
 <!-- PELICAN_END_SUMMARY -->
+<img src="./../data/2016Fallcadp_hw-2016SolveSpace_Linkage mechanism/2017-01-05_21-01-07.png" width="800" />
 
 SolveSpace 2D 四連桿機構繪製及運動路徑呈現(一)
 <iframe src="https://player.vimeo.com/video/198291323" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/198291323">2017-01-05 21-21-47</a> from <a href="https://vimeo.com/user61170413">40423217</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
