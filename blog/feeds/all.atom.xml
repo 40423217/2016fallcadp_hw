@@ -19,7 +19,24 @@ SolveSpace 3D零件繪製(二)
 SolveSpace 3D零件繪製(一)
 &lt;iframe src="https://player.vimeo.com/video/198664429" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/198664429"&gt;SolvesSpace 3D test part1&lt;/a&gt; from &lt;a href="https://vimeo.com/user61170413"&gt;40423217&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 SolveSpace 3D零件繪製(二)
-&lt;iframe src="https://player.vimeo.com/video/198664481" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/198664481"&gt;SolvesSpace 3D test part2&lt;/a&gt; from &lt;a href="https://vimeo.com/user61170413"&gt;40423217&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="使用導引"></category></entry><entry><title>2016Fallcadp hw SolveSpace 3D 矩陣繪製</title><link href="./2016fallcadp-hw-solvespace-3d-ju-zhen-hui-zhi.html" rel="alternate"></link><updated>2016-09-02T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-09-02:./2016fallcadp-hw-solvespace-3d-ju-zhen-hui-zhi.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;iframe src="https://player.vimeo.com/video/198664481" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/198664481"&gt;SolvesSpace 3D test part2&lt;/a&gt; from &lt;a href="https://vimeo.com/user61170413"&gt;40423217&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="使用導引"></category></entry><entry><title>2016Fallcadp hw SolveSpace 2D 四連桿繪製</title><link href="./2016fallcadp-hw-solvespace-2d-si-lian-gan-hui-zhi.html" rel="alternate"></link><updated>2016-09-02T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-09-02:./2016fallcadp-hw-solvespace-2d-si-lian-gan-hui-zhi.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt;SolveSpace 2D 四連桿機構繪製及運動路徑呈現(一)
+&lt;iframe src="https://player.vimeo.com/video/198291323" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/198291323"&gt;2017-01-05 21-21-47&lt;/a&gt; from &lt;a href="https://vimeo.com/user61170413"&gt;40423217&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt; 
+在運動路徑呈現出後進行運動路徑參數及簡易圖表輸出。同樣在在工具列選取"Analyze"點選在"Trace Point"下方的"Stop Tracing..."，隨即會跳出視窗要求存取".csv"檔並且用Excel開啟，選取所有參數利用"插入""圖表"呈現簡單運動路徑圖表分析。
+&lt;p&gt; 
+&lt;p&gt;
+ 注意：利用SolveSpace拖曳機構作動如果太過劇烈會產生路徑破圖或者機構組立錯位。
+&lt;p&gt;
+SolveSpace 2D 四連桿機構繪製及運動路徑呈現(二)
+&lt;iframe src="https://player.vimeo.com/video/198291332" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/198291332"&gt;2017-01-05 21-34-19&lt;/a&gt; from &lt;a href="https://vimeo.com/user61170413"&gt;40423217&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;
+利用在"SolveSpace 2D 四連桿機構繪製及運動路徑呈現(一)"所完成的四連桿機構，進行機構動態模擬以及路徑輸出。先點選所欲呈現路徑的機構位置或者元件，在工具列選取"Analyze"→"Trace Point"即可進行運動路徑呈現。
+&lt;p&gt;
+&lt;p&gt;
+在零件繪製完成後，將檔案存取分別為.slvs以及.html。點選在檔案(File)捲軸下方的Export Triangle Mesh彈出室窗後，點選"檔案類型"即可見.html檔案存取類型。
+&lt;p&gt;&lt;/p&gt;</summary><category term="使用導引"></category></entry><entry><title>2016Fallcadp hw SolveSpace 3D 矩陣繪製</title><link href="./2016fallcadp-hw-solvespace-3d-ju-zhen-hui-zhi.html" rel="alternate"></link><updated>2016-09-02T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-09-02:./2016fallcadp-hw-solvespace-3d-ju-zhen-hui-zhi.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;p&gt;SolveSpace 3D 矩陣繪製
 &lt;iframe src="https://player.vimeo.com/video/198702634" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/198702634"&gt;2017-01-10 00-16-45SolveSpace M&lt;/a&gt; from &lt;a href="https://vimeo.com/user61170413"&gt;40423217&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
@@ -38,56 +55,12 @@ SolveSpace 3D零件繪製(二)
 在零件繪製完成後，將檔案存取分別為.slvs以及.html。點選在檔案(File)捲軸下方的Export Triangle Mesh彈出室窗後，點選"檔案類型"即可見.html檔案存取類型。
 &lt;p&gt;&lt;/p&gt;</summary><category term="使用導引"></category></entry><entry><title>2016Fallcadp hw SolveSpace 3D 零件繪製</title><link href="./2016fallcadp-hw-solvespace-3d-ling-jian-hui-zhi.html" rel="alternate"></link><updated>2016-09-02T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-09-02:./2016fallcadp-hw-solvespace-3d-ling-jian-hui-zhi.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
-&lt;p&gt;SolveSpace 2D 四連桿機構繪製及運動路徑呈現(一)
-&lt;iframe src="https://player.vimeo.com/video/198291323" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/198291323"&gt;2017-01-05 21-21-47&lt;/a&gt; from &lt;a href="https://vimeo.com/user61170413"&gt;40423217&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt; 
-在運動路徑呈現出後進行運動路徑參數及簡易圖表輸出。同樣在在工具列選取"Analyze"點選在"Trace Point"下方的"Stop Tracing..."，隨即會跳出視窗要求存取".csv"檔並且用Excel開啟，選取所有參數利用"插入""圖表"呈現簡單運動路徑圖表分析。
-&lt;p&gt; 
-&lt;p&gt;
- 注意：利用SolveSpace拖曳機構作動如果太過劇烈會產生路徑破圖或者機構組立錯位。
-&lt;p&gt;
-SolveSpace 2D 四連桿機構繪製及運動路徑呈現(二)
-&lt;iframe src="https://player.vimeo.com/video/198291332" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/198291332"&gt;2017-01-05 21-34-19&lt;/a&gt; from &lt;a href="https://vimeo.com/user61170413"&gt;40423217&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;
-利用在"SolveSpace 2D 四連桿機構繪製及運動路徑呈現(一)"所完成的四連桿機構，進行機構動態模擬以及路徑輸出。先點選所欲呈現路徑的機構位置或者元件，在工具列選取"Analyze"→"Trace Point"即可進行運動路徑呈現。
-&lt;p&gt;
-&lt;p&gt;
-在零件繪製完成後，將檔案存取分別為.slvs以及.html。點選在檔案(File)捲軸下方的Export Triangle Mesh彈出室窗後，點選"檔案類型"即可見.html檔案存取類型。
-&lt;p&gt;&lt;/p&gt;</summary><category term="使用導引"></category></entry><entry><title>2016Fallcadp hw SolveSpace 3D 零件繪製</title><link href="./2016fallcadp-hw-solvespace-3d-ling-jian-hui-zhi.html" rel="alternate"></link><updated>2016-09-02T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-09-02:./2016fallcadp-hw-solvespace-3d-ling-jian-hui-zhi.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
-
 &lt;p&gt;SolveSpace 3D 零件繪製&amp;amp;網頁呈現及檢視
 &lt;iframe src="https://player.vimeo.com/video/198291323" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/198291323"&gt;2017-01-05 21-21-47&lt;/a&gt; from &lt;a href="https://vimeo.com/user61170413"&gt;40423217&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;
 利用SolveSpace繪製零件架構並引申特徵。透過3D零件建模熟悉SolveSpace基礎繪製技巧，繪圖平面建置以及狀態更改等特殊功能。
 &lt;p&gt; 
 &lt;iframe src="https://player.vimeo.com/video/198291332" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/198291332"&gt;2017-01-05 21-34-19&lt;/a&gt; from &lt;a href="https://vimeo.com/user61170413"&gt;40423217&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;
-在零件繪製完成後，將檔案存取分別為.slvs以及.html。點選在檔案(File)捲軸下方的Export Triangle Mesh彈出室窗後，點選"檔案類型"即可見.html檔案存取類型。
-&lt;p&gt;&lt;/p&gt;</summary><category term="使用導引"></category></entry><entry><title>2016Fallcadp hw SolveSpace 3D 零件繪製</title><link href="./2016fallcadp-hw-solvespace-3d-ling-jian-hui-zhi.html" rel="alternate"></link><updated>2016-09-02T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-09-02:./2016fallcadp-hw-solvespace-3d-ling-jian-hui-zhi.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
-
-&lt;p&gt;SolveSpace 3D 零件繪製&amp;amp;網頁呈現及檢視
-&lt;iframe src="https://player.vimeo.com/video/198291323" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/198291323"&gt;2017-01-05 21-21-47&lt;/a&gt; from &lt;a href="https://vimeo.com/user61170413"&gt;40423217&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-&lt;/p&gt;
-利用SolveSpace繪製零件架構並引申特徵。透過3D零件建模熟悉SolveSpace基礎繪製技巧，繪圖平面建置以及狀態更改等特殊功能。
-&lt;p&gt; 
-&lt;iframe src="https://player.vimeo.com/video/198291332" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/198291332"&gt;2017-01-05 21-34-19&lt;/a&gt; from &lt;a href="https://vimeo.com/user61170413"&gt;40423217&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;
-在零件繪製完成後，將檔案存取分別為.slvs以及.html。點選在檔案(File)捲軸下方的Export Triangle Mesh彈出室窗後，點選"檔案類型"即可見.html檔案存取類型。
-&lt;p&gt;&lt;/p&gt;</summary><category term="使用導引"></category></entry><entry><title>2016Fallcadp hw SolveSpace 3D 零件繪製</title><link href="./2016fallcadp-hw-solvespace-3d-ling-jian-hui-zhi.html" rel="alternate"></link><updated>2016-09-02T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-09-02:./2016fallcadp-hw-solvespace-3d-ling-jian-hui-zhi.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
-
-&lt;p&gt;SolveSpace 2D 四連桿機構繪製及運動路徑呈現(一)
-&lt;iframe src="https://player.vimeo.com/video/198291323" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/198291323"&gt;2017-01-05 21-21-47&lt;/a&gt; from &lt;a href="https://vimeo.com/user61170413"&gt;40423217&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt; 
-在運動路徑呈現出後進行運動路徑參數及簡易圖表輸出。同樣在在工具列選取"Analyze"點選在"Trace Point"下方的"Stop Tracing..."，隨即會跳出視窗要求存取".csv"檔並且用Excel開啟，選取所有參數利用"插入""圖表"呈現簡單運動路徑圖表分析。
-&lt;p&gt; 
-&lt;p&gt;
- 注意：利用SolveSpace拖曳機構作動如果太過劇烈會產生路徑破圖或者機構組立錯位。
-&lt;p&gt;
-SolveSpace 2D 四連桿機構繪製及運動路徑呈現(二)
-&lt;iframe src="https://player.vimeo.com/video/198291332" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/198291332"&gt;2017-01-05 21-34-19&lt;/a&gt; from &lt;a href="https://vimeo.com/user61170413"&gt;40423217&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;
-利用在"SolveSpace 2D 四連桿機構繪製及運動路徑呈現(一)"所完成的四連桿機構，進行機構動態模擬以及路徑輸出。先點選所欲呈現路徑的機構位置或者元件，在工具列選取"Analyze"→"Trace Point"即可進行運動路徑呈現。
-&lt;p&gt;
 &lt;p&gt;
 在零件繪製完成後，將檔案存取分別為.slvs以及.html。點選在檔案(File)捲軸下方的Export Triangle Mesh彈出室窗後，點選"檔案類型"即可見.html檔案存取類型。
 &lt;p&gt;&lt;/p&gt;</summary><category term="使用導引"></category></entry></feed>
