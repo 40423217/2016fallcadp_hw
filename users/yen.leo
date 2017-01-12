@@ -35,6 +35,7 @@
 <v t="amd.20151215170031.1" a="E"><vh>@path ./../content</vh>
 <v t="amd.20160106093454.1" a="E"><vh>yen 所寫的網誌文章</vh>
 <v t="amd.20160727114506.1"><vh>201609</vh></v>
+<v t="leo.20170113023627.1"><vh>@edit 2016Submodule操作說明以及敘說關於架構檔的建設.md</vh></v>
 <v t="leo.20170113022133.1"><vh>@edit 2016SolveSpace&amp;Onshape範例圖檔.md</vh></v>
 <v t="leo.20170113000139.1"><vh>@edit 2016ShareX 操作說明.md</vh></v>
 <v t="leo.20170112234041.1"><vh>@edit 2016SolveSpace 操作說明.md</vh></v>
