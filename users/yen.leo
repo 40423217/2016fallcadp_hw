@@ -34,14 +34,7 @@
 <v t="amd.20151216001126.1"><vh>md 檔案範例</vh></v>
 <v t="amd.20151215170031.1" a="E"><vh>@path ./../content</vh>
 <v t="amd.20160106093454.1" a="E"><vh>yen 所寫的網誌文章</vh>
-<v t="amd.20160727114506.1" a="E"><vh>201609</vh>
-<v t="leo.20170112223641.1"><vh>@edit 2016簡單介紹ShareX與SolveSpace.md</vh></v>
-<v t="leo.20170112222255.1"><vh>@edit 2016SolveSpace 3D 零件繪製.md</vh></v>
-<v t="leo.20170112190648.1"><vh>@edit 2016SolveSpace 3D 矩陣繪製.md</vh></v>
-<v t="leo.20170109145409.1"><vh>@edit 2016SolveSpace 3D 矩陣繪製.md</vh></v>
-<v t="leo.20170106102605.1"><vh>@edit 2016簡單介紹ShareX與SolveSpace.md</vh></v>
-<v t="amd.20160727120222.1"><vh>@edit 2016SolveSpace 3D 零件繪製.md</vh></v>
-</v>
+<v t="amd.20160727114506.1"><vh>201609</vh></v>
 </v>
 </v>
 <v t="amd.20160106094754.1" a="E"><vh>@path ./../content/pages</vh>
