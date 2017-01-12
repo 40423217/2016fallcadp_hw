@@ -18,18 +18,18 @@ Onshape曲柄滑塊機構 範例圖檔繪製(二)
 SolveSpace曲柄滑塊機構 範例圖檔
 <iframe src="../data/SolveSpace_part2_fall.html" width="800" height="600" ></iframe>
 
-<iframe src="../data/SolveSpace_part2_d1" width="800" height="600" ></iframe>
+<iframe src="../data/SolveSpace_part2_d1.html" width="800" height="600" ></iframe>
 
-<iframe src="../data/SolveSpace_part2_d2" width="800" height="600" ></iframe>
+<iframe src="../data/SolveSpace_part2_d2.html" width="800" height="600" ></iframe>
 
-<iframe src="../data/SolveSpace_part2_d3" width="800" height="600" ></iframe>
+<iframe src="../data/SolveSpace_part2_d3.html" width="800" height="600" ></iframe>
 
-<iframe src="../data/SolveSpace_part2_d4" width="800" height="600" ></iframe>
+<iframe src="../data/SolveSpace_part2_d4.html" width="800" height="600" ></iframe>
 
-<iframe src="../data/SolveSpace_part2_d5" width="800" height="600" ></iframe>
+<iframe src="../data/SolveSpace_part2_d5.html" width="800" height="600" ></iframe>
 
-<iframe src="../data/SolveSpace_part2_d6" width="800" height="600" ></iframe>
+<iframe src="../data/SolveSpace_part2_d6.html" width="800" height="600" ></iframe>
 
-<iframe src="../data/SolveSpace_part2_d7" width="800" height="600" ></iframe>
+<iframe src="../data/SolveSpace_part2_d7.html" width="800" height="600" ></iframe>
 
-<iframe src="../data/SolveSpace_part2_d8" width="800" height="600" ></iframe>
+<iframe src="../data/SolveSpace_part2_d8.html" width="800" height="600" ></iframe>
