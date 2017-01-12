@@ -9,6 +9,11 @@ Author: yen
 <!-- PELICAN_END_SUMMARY -->
 SolveSpace 3D 矩陣繪製
 <iframe src="https://player.vimeo.com/video/198702634" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/198702634">2017-01-10 00-16-45SolveSpace M</a> from <a href="https://vimeo.com/user61170413">40423217</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+<iframe src="../data/SolveSpace_M/SolveSpace_M_L.html" width="800" height="600" ></iframe>
+
+<iframe src="../data/SolveSpace_M/SolveSpace_M_B.html" width="800" height="600" ></iframe>
+
 </p>
 利用SolveSpace繪製各零件架構並引申特徵。
 <p> 
@@ -20,6 +25,11 @@ SolveSpace 3D 矩陣繪製
 3D 矩陣組立完成。
 <p> 
 <iframe src="https://player.vimeo.com/video/198702842" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/198702842">2017-01-10 00-24-24SolveSpace M</a> from <a href="https://vimeo.com/user61170413">40423217</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+<iframe src="../data/SolveSpace_M/SolveSpace_M_B&L-1.html" width="800" height="600" ></iframe>
+
+<iframe src="../data/SolveSpace_M/SolveSpace_M_B&L.html" width="800" height="600" ></iframe>
+
 <p>
 在零件繪製完成後，將檔案存取分別為.slvs以及.html。點選在檔案(File)捲軸下方的Export Triangle Mesh彈出室窗後，點選"檔案類型"即可見.html檔案存取類型。
 <p>
