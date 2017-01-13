@@ -9,7 +9,7 @@ Author: yen
 <!-- PELICAN_END_SUMMARY -->
 </p>
 <p>
- 創造力三元素
+"創造力三元素"
 </p>
 <p>
 
@@ -27,7 +27,7 @@ Author: yen
 
 </p>
 <p>
-六種表達方式
+"六種表達方式"
 </p>
 <p>
 
@@ -52,7 +52,7 @@ Author: yen
 
 </p>
 <p>
-可攜式 Python3 程式環境
+"可攜式 Python3 程式環境"
 </p>
 <p>
 
@@ -81,7 +81,7 @@ Brython 網際程式系統 (文字、2D/3D靜態與動態資料展示, 互動式
 
 </p>
 <p>
-Solvespace 參數 3D 繪圖系統
+"Solvespace 參數 3D 繪圖系統"
 </p>
 <p>
 
@@ -97,7 +97,7 @@ Solvespace 參數 3D 繪圖系統
 
 </p>
 <p>
-Onshape 雲端參數 3D 繪圖系統
+"Onshape 雲端參數 3D 繪圖系統"
 </p>
 <p>
 
@@ -122,7 +122,7 @@ Onshape 雲端參數 3D 繪圖系統
 
 </p>
 <p>
-零組件繪圖練習
+"零組件繪圖練習"
 </p>
 <p>
 
@@ -144,7 +144,7 @@ Nutcracker 零組件範例
 
 </p>
 <p>
-ShareX 取畫面圖像與操作影片錄製
+"ShareX 取畫面圖像與操作影片錄製"
 </p>
 <p>
 
