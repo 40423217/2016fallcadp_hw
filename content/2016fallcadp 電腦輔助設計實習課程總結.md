@@ -1,5 +1,5 @@
-Title: 2016Fallcadp hw 電腦輔助設計實習課程總結
-Date: 2016-09-2 12:00
+Title: 2017 Fallcadp hw 電腦輔助設計實習課程總結
+Date: 2016-01-13 12:00
 Category: Misc
 Tags: 使用導引
 Author: yen

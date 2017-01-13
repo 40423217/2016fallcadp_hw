@@ -1,5 +1,5 @@
 Title: 2016Fall cadp hw Submodule操作說明以及敘說關於架構檔的建設
-Date: 2016-09-2 12:00
+Date: 2016-01-12 12:00
 Category: Misc
 Tags: 使用導引
 Author: yen
