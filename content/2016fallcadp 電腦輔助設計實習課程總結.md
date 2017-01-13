@@ -7,7 +7,14 @@ Author: yen
 
 
 <!-- PELICAN_END_SUMMARY -->
+</p>
+<p>
  創造力三元素
+</p>
+<p>
+
+</p>
+<p>
 </p>
 自學能力 - 根據特定主題, 自我學習能力
 <p>
@@ -18,7 +25,11 @@ Author: yen
 想像能力 - 在規劃或執行之前, 根據既有基礎, 具備步驟安排, 想望成具體結果之能力
 <p>
 
+</p>
+<p>
 六種表達方式
+</p>
+<p>
 
 </p>
 口語表達
@@ -39,7 +50,11 @@ Author: yen
 實體表達
 <p>
 
+</p>
+<p>
 可攜式 Python3 程式環境
+</p>
+<p>
 
 </p>
 可攜式
@@ -64,7 +79,11 @@ Gihub 倉儲、gh-pages 與 wiki
 Brython 網際程式系統 (文字、2D/3D靜態與動態資料展示, 互動式運算)
 <p>
 
+</p>
+<p>
 Solvespace 參數 3D 繪圖系統
+</p>
+<p>
 
 </p>
 簡單的 3D 零件與組立件
@@ -76,7 +95,11 @@ Solvespace 參數 3D 繪圖系統
 3D 零件與組立件網際檢視 (three.js)
 <p>
 
+</p>
+<p>
 Onshape 雲端參數 3D 繪圖系統
+</p>
+<p>
 
 </p>
 以電腦瀏覽器開啟, 免單機安裝厚重系統
@@ -97,7 +120,11 @@ Onshape 雲端參數 3D 繪圖系統
 提供 featurescript 客製化程式系統 (納入協同產品設計實習課程範圍)
 <p>
 
+</p>
+<p>
 零組件繪圖練習
+</p>
+<p>
 
 </p>
 Solvespace Tutorial 範例
@@ -115,7 +142,11 @@ Fourbar Linkage 零組件範例
 Nutcracker 零組件範例
 <p>
 
+</p>
+<p>
 ShareX 取畫面圖像與操作影片錄製
+</p>
+<p>
 
 </p>
 操作過程影片送到 Vimeo 與 Youtube
